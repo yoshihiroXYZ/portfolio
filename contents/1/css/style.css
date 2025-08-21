@@ -5,7 +5,7 @@
   It also defines basic styles for common HTML elements like headers, paragraphs, lists, images, and links.
   The goal is to create a clean slate for further styling.
 ==============================================================*/
-/ *,
+*,
 *::before,
 *::after {
   box-sizing: border-box;
