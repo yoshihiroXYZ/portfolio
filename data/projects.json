@@ -14,7 +14,7 @@
     "thumb": "./images/thumbs/quiz-app1.png",
     "description": "学習用クイズアプリ。",
     "detail": "カテゴリー別出題、スコア保存（ローカルストレージ）、解説表示に対応した学習用Webアプリ。",
-    "tags": ["JavaScript", "WebApp"],
+    "tags": ["JavaScript", "PHP", "MySQL"],
     "date": "2025-08-13"
   },
   {
